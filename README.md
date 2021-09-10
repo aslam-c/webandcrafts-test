@@ -9,3 +9,7 @@
 #### Run database seeder
 
 -   php artisan db:seed
+
+#### Run
+ 
+ - php artisan serve
